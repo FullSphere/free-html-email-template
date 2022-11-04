@@ -5,7 +5,7 @@ A free HTML email template, featuring high resolutions images, single and double
 
 ## Preview
 
-View the free template here: https://fullsphere.co.uk/misc/free-template
+View the free template here: https://fullsphere.co.uk/html-emails/free-template
 
 <img style="width: 50%;" src="https://fullsphere.co.uk/misc/free-template/html-email-preview.jpeg">
 
