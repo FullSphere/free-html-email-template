@@ -48,3 +48,6 @@ Image example:
 Tested on mobile, desktop and web.
 
 <img src="https://fullsphere.co.uk/misc/free-template/email-client-preview.jpg">
+
+Test your email before sending. You can use https://litmus.com/ to mass check multiple platforms.
+For email configuration and DNS setup, use https://www.mail-tester.com/
