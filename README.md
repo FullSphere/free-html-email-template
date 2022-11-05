@@ -46,3 +46,5 @@ Image example:
 ## Tested on all major email clients
 
 Tested on mobile, desktop and web.
+
+<img src="https://fullsphere.co.uk/misc/free-template/email-client-preview.jpg">
