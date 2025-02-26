@@ -1,7 +1,6 @@
 # Free HTML Email Template
 
-A free HTML email template, featuring high resolutions images, single and double columns. Fully functional across all mail platforms. 
-
+Make use of a free HTML email template, designed by our experts. Featuring high resolutions images, single and double columns, fully functional and tested across all major email platforms.
 
 ## Preview
 
